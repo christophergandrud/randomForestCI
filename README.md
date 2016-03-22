@@ -13,6 +13,7 @@ install_github("swager/randomForestCI")
 Example usage:
 
 ```R
+library(randomForest)
 library(randomForestCI)
 
 # Make some data...
